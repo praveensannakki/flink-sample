@@ -4,14 +4,13 @@ import com.flink.sample.events.Employee;
 
 public class TestUtil {
     public static Employee buildEmployee() {
-//        return Employee.EmployeeBuilder()
-//                .id(12345)
-//                .firstName("john")
-//                .lastName("doe")
-//                .email("john@doe.com")
-//                .phone("123-456-7890")
-//                .salary(2570)
-//                .build();
-        return null;
+        return Employee.builder()
+                .id(1001)
+                .firstName("Romin")
+                .lastName("Irani")
+                .email("romin.k.irani@gmail.com")
+                .phone("408-1234567")
+                .salary(10000.0)
+                .build();
     }
 }
