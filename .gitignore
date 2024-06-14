@@ -1,0 +1,20 @@
+# Ignore target directory
+/target
+
+# Ignore other specific files
+*.log
+*.tmp
+*.swp
+*.DS_Store
+
+# Ignore IDE-specific files and directories (example for IntelliJ IDEA)
+.idea/
+*.iml
+
+# Ignore build output directories for sbt
+project/target/
+project/project/
+
+# Ignore other specific directories
+/logs
+/tmp

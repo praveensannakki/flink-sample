@@ -1,0 +1,30 @@
+{
+  "Company": {
+    "Employees": [
+      {
+        "id": 1001,
+        "firstName": "Romin",
+        "lastName": "Irani",
+        "phone": "408-1234567",
+        "email": "romin.k.irani@gmail.com",
+        "salary": 10000
+      },
+      {
+        "id": 1002,
+        "firstName": "Neil",
+        "lastName": "Irani",
+        "phone": "408-1111111",
+        "email": "neilrirani@gmail.com",
+        "salary": 20000
+      },
+      {
+        "id": 1003,
+        "firstName": "Tom",
+        "lastName": "Hanks",
+        "phone": "408-2222222",
+        "email": "tomhanks@gmail.com",
+        "salary": 30000
+      }
+    ]
+  }
+}
