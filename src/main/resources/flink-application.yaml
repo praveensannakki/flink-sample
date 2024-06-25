@@ -2,3 +2,4 @@
 flink.checkpoint.interval: 60000
 flink.socket.server: localhost
 flink.socket.port: 9999
+kafka.salary.topic: test_topic
