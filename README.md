@@ -9,4 +9,4 @@ This repository has some sample flink codes
 # How to Run
 - clone the repository 
 - mvn clean install
-- run locally on any IDE or run on standalone flink cluster using docker image https://nightlies.apache.org/flink/flink-docs-master/docs/deployment/resource-providers/standalone/docker/
+- run locally on any IDE or run on standalone flink cluster using docker image https://nightlies.apache.org/flink/flink-docs-release-1.17/docs/deployment/resource-providers/standalone/docker/
